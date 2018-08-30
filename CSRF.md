@@ -1,6 +1,6 @@
 # CROSS SITE REQUEST FORGERY (CSRF)
 
-Is an attack which forces an end user to execute unwanted actions on a web application in which he/she is currently 
+It is an attack which forces an end user to execute unwanted actions on a web application in which he/she is currently 
 authenticated. With littlr help of social engineering (like sending a link via email or chat), an attacker may force
 the users of a web application to execute actions of the attacker's choosing.A successful CSRF exploit can compromise
 end user data and operation, when it targets a normal user. If targeted end user is the administrator account, a CSRF
